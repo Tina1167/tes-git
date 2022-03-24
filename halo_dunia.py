@@ -1,1 +1,2 @@
-halo_dunia
+print('Halo Dunia !')
+print('Belajar Ai !')
